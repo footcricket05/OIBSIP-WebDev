@@ -17,7 +17,7 @@ This is a simple calculator web application created as a part of the OIBSIP Web 
 
 
 ## Usage
-To use this calculator, simply open the index.html file in a web browser. The calculator interface will be displayed, and you can perform calculations by clicking the buttons on the interface.
+To use this calculator, simply open the `index.html` file in a web browser. The calculator interface will be displayed, and you can perform calculations by clicking the buttons on the interface.
 
 
 ## Website Image -
@@ -25,7 +25,7 @@ To use this calculator, simply open the index.html file in a web browser. The ca
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the `MIT License`. See the LICENSE file for details.
 
 
 
