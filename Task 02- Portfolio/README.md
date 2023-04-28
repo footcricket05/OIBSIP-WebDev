@@ -1,6 +1,8 @@
 ## Task 02- 
 ![image](https://user-images.githubusercontent.com/93007427/167268172-3b0a6936-4efd-4fcd-8586-257cbdd5cb15.png)
 
+
+## Description
 This repository contains the code for my portfolio website, which is a part of my OIBSIP Web Development Internship. The website is a showcase of my skills, projects, and experiences.
 
 ## Technologies used
