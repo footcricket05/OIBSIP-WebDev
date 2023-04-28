@@ -33,7 +33,8 @@ The website has the following features:
 
 5. Contact section with a contact form and social media links
 
-6. How to run the website
+
+## How to run the website
 
 You can view the website by visiting the link: https://footcricket05.github.io/OIBSIP-WebDev/Task%2002-%20Portfolio/
 
@@ -43,3 +44,8 @@ git clone https://github.com/footcricket05/OIBSIP-WebDev.git
 ```
 
 Then, open the Task 02- Portfolio folder and double click on the index.html file to run the website locally.
+
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
