@@ -3,6 +3,8 @@
 
 <h2> Web Development Internship Projects </h2>
 
+
+This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
 <ol>
   <li> Landing page </li>
   <p><a href="https://oibsip-task1.netlify.app/">website</a></p>
@@ -27,3 +29,20 @@
   
   </ol>
 
+All projects include the code and necessary datasets used for training and testing. Please refer to the individual project folders for more details.
+
+
+
+## Installation
+To run any of the projects, clone the repository and install the necessary libraries using pip:
+```
+pip install -r requirements.txt
+```
+
+
+## Contributing
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or feedback
+
+
+## License
+This project is licensed under the `MIT License`.
