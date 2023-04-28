@@ -51,8 +51,5 @@ A simple front-end pizza store built using React,I did this project to get more 
 7. Deployment: Heroku
 
 
-
-## Deployment 
-Once you have done with your setup. You need to put your website online!
-I highly recommend to use [heroku](https://devcenter.heroku.com/articles/nodejs-support/) to achieve this on the EASIEST WAY
-
+## License
+This project is licensed under the `MIT License`. See the LICENSE file for details.
