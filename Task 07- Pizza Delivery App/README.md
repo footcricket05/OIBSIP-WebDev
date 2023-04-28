@@ -18,7 +18,7 @@ A simple front-end pizza store built using React,I did this project to get more 
 
 
 
-## Technologies used 🛠
+## Technologies used 
 1. [React](https://reactjs.org/)
 
 2. [Redux](https://redux.js.org/) 
