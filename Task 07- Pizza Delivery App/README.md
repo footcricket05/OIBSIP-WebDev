@@ -28,7 +28,8 @@ A simple front-end pizza store built using React,I did this project to get more 
 5. [Cloud Mongo](https://www.mongodb.com/cloud) 
 
 
-## website image - 
+## Website Image - 
+
 
 
 ## Concepts Implemented
