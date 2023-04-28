@@ -24,9 +24,6 @@ This repository contains the code for the projects completed during the Data Sci
   <li> A Basic To do WebApp </li>
   <p><a href="https://oibsip-task6.netlify.app/">website</a></p>
   
-  <li> Pizza Delivery Application </li>
-  <p><a href="https://piza-delivery-shop.herokuapp.com/">website</a></p>
-  
   </ol>
 
 All projects include the code and necessary datasets used for training and testing. Please refer to the individual project folders for more details.
