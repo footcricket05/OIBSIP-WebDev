@@ -48,6 +48,6 @@ Then, open the Task 02- Portfolio folder and double click on the index.html file
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the `MIT License`. See the LICENSE file for details.
 
 
