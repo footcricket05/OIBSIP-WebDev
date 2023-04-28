@@ -19,8 +19,9 @@ To view the tribute page, simply open the `index.html` file in a web browser.
 ## Technologies Used
 This project uses the following technologies:
 
-HTML5
-CSS3
+1. HTML5
+
+2. CSS3
 
 
 ## License
