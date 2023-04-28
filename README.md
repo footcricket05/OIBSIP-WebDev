@@ -1,7 +1,7 @@
-<h1 align=center>Oasis-InfoByte-Internship</h1>
+# Oasis-InfoByte-Internship
 
 
-<h2> Web Development Internship Projects </h2>
+## Web Development Internship Projects
 
 
 This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
