@@ -1,10 +1,9 @@
 ## Task 01- 
-
+![image](https://user-images.githubusercontent.com/93007427/235237572-d72d3355-2d2c-4ddb-8a2c-92b21a3ff25c.png)
 
 
 ## Description
 A simple front-end pizza store built using React,I did this project to get more comfortable with React,Node js,MongoDB
-
 
 
 ## Features 
@@ -15,7 +14,6 @@ A simple front-end pizza store built using React,I did this project to get more 
 3. `Shopping cart` - Shows you Addded pizza,quanity,price and Subtotal.You can also remove  the added pizza.
 
 4. `Checkout page` - for the purposes of this demo website, you can click on 'Fill with fake data' to populate fields. You have login form and your order summary.
-
 
 
 ## Technologies used 
@@ -30,9 +28,7 @@ A simple front-end pizza store built using React,I did this project to get more 
 5. [Cloud Mongo](https://www.mongodb.com/cloud) 
 
 
-
 ## website image - 
-
 
 
 ## Concepts Implemented
