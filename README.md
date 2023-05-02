@@ -1,10 +1,10 @@
-# Oasis-InfoByte-Internship
+# Oasis InfoByte Internship
 
 
 ## Web Development Internship Projects
 
 
-This repository contains the code for the projects completed during the Data Science Internship at InfoPillar Solutions. The projects are:
+This repository contains the code for the projects completed during the Web Development Internship at Oasis InfoByte. The projects are:
 <ol>
   <li> Landing page </li>
   <p><a href="https://oibsip-task1.netlify.app/">website</a></p>
