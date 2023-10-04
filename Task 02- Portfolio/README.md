@@ -35,7 +35,7 @@ Check website at https://oibsip-task2.netlify.app/
 
 ## How to run the website
 
-You can view the website by visiting the link: https://footcricket05.github.io/OIBSIP-WebDev/Task%2002-%20Portfolio/
+You can view the website by visiting the link: https://oibsip-task2.netlify.app/
 
 Alternatively, you can clone this repository to your local machine using:
 ```
